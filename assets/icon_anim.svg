@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 288 288" style="enable-background:new 0 0 288 288;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+</style>
+<g id="star">
+	<path id="path3731_00000173867479898877613100000005510022527213246880_" d="M245.8,42.3l-37.4,75.1l79.6,26.7l-79.6,26.7
+		l37.4,75.1l-75.1-37.4L144,288l-26.7-79.6l-75.1,37.4l37.4-75.1L0,144l79.6-26.7L42.2,42.2l75.1,37.4L144,0l26.7,79.6L245.8,42.3z"
+		/>
+</g>
+<g id="eye">
+	<path id="path3658_00000024680535698710358820000008081528649485152663_" class="st0" d="M144,118.8c-14,0-25.9,6-32.2,8.6
+		c-12.2,5.1-26.3,11-39.8,16.6c13.5,5.6,27.6,11.6,39.8,16.6c6.4,2.6,18.2,8.6,32.2,8.6s25.9-6,32.2-8.6c12.2-5.1,26.3-11,39.8-16.6
+		c-13.5-5.6-27.6-11.6-39.8-16.6C169.9,124.7,158,118.8,144,118.8z"/>
+</g>
+<g id="pupil">
+	<circle cx="144" cy="144" r="20.2"/>
+</g>
+</svg>

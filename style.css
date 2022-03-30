@@ -1,0 +1,71 @@
+
+svg {
+    transform: scale(40%);
+}
+
+
+
+@keyframes flash {
+    from,
+    50%,
+    to {
+      opacity: 1;
+    }
+  
+    25%,
+    75% {
+      opacity: 0;
+    }
+  }
+  
+  .flash {
+    animation-name: flash;
+  }
+
+.flash {
+    backface-visibility: visible;
+    animation: flash 1s;
+    transform-origin: center;
+    animation-play-state: paused;
+}
+   
+@keyframes shakeY {
+    from,
+    to {
+      transform: translate3d(0, 0, 0);
+    }
+  
+    10%,
+    30%,
+    50%,
+    70%,
+    90% {
+      transform: translate3d(0, -10px, 0);
+    }
+  
+    20%,
+    40%,
+    60%,
+    80% {
+      transform: translate3d(0, 10px, 0);
+    }
+  }
+  svg:hover .shakeY{
+    animation-play-state: running;
+    animation-iteration-count: infinite
+}
+
+svg{
+    fill:#FBB03B;}
+
+
+  .shakeY {
+    animation-name: shakeY;
+  }
+
+  .shakeY{
+    backface-visibility: visible;
+    animation: shakeY 2.5s;
+    transform-origin: center;
+    animation-play-state: paused;
+}
